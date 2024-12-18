@@ -1,0 +1,6 @@
+SystemName=WebSocket_Example
+PORT=80
+
+DocumentRoot=www/html
+TemplateRoot=www/template/
+UploadFolder=www/tmp/
